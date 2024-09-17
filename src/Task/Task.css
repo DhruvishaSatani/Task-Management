@@ -1,0 +1,23 @@
+.tasklist{
+          padding: 40px;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+}
+.input-box{
+          width: 100%;
+          margin-bottom: 10px;
+          padding: 8px;
+          border-radius: 10px;
+          background-color: transparent;
+}
+
+.btn{
+          width: 100%;
+          margin-bottom: 10px;
+          padding: 8px;
+          border-radius: 10px;
+          border: 1px solid #000;
+          background-color: transparent;
+}
